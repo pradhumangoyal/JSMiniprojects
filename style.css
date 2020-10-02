@@ -1,15 +1,9 @@
-#box {
-    width: 10vw;
-    height: 10vw;
-    background-color: #b916f4;
-    cursor: pointer;
+#ball {
+    width: 15vw;
+    height: 15vw;
+    border-radius: 50%;
+    background-color: aquamarine;
     position: absolute;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-#box p {
-    font-size: 1.7vw;
-    color: white;
+    top: 45%;
+    left: 45%;
 }
